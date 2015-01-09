@@ -1,0 +1,70 @@
+12 17
+Obstacle Tree 6 1
+Pickup Gold 100 7 1
+Pickup Silver 100 8 1
+Pickup Sword 1 9 1
+Pickup Potion 250 10 1
+Obstacle Tree 1 2
+Obstacle Tree 2 2
+Obstacle Tree 3 2
+Obstacle Tree 4 2
+Obstacle Tree 6 2
+Obstacle Tree 7 2
+Obstacle Tree 8 2
+Obstacle Tree 9 2
+Obstacle Tree 4 3
+Obstacle Tree 6 3
+Obstacle Tree 7 3
+Obstacle Tree 8 3
+Obstacle Tree 9 3
+Obstacle Tree 2 4
+Obstacle Tree 4 4
+Obstacle Tree 8 4
+Obstacle Tree 9 4
+Obstacle Tree 2 5
+Obstacle Tree 4 5
+Obstacle Tree 5 5
+Obstacle Tree 6 5
+Obstacle Tree 8 5
+Obstacle Tree 2 6
+Obstacle Tree 6 6
+Obstacle Tree 8 6
+Obstacle Tree 2 7
+Obstacle Tree 3 7
+Obstacle Tree 4 7
+Pickup Gold 100 10 7
+Obstacle Tree 4 8
+Obstacle Tree 5 8
+Obstacle Tree 6 8
+Obstacle Tree 7 8
+Obstacle Tree 8 8
+Obstacle Tree 9 8
+Obstacle Tree 10 8
+Obstacle Tree 1 10
+Obstacle Tree 2 10
+Obstacle Tree 3 10
+Obstacle Tree 4 10
+Obstacle Tree 5 10
+Obstacle Tree 6 10
+Obstacle Tree 8 10
+Obstacle Tree 9 10
+Obstacle Tree 8 11
+Obstacle Tree 9 11
+Obstacle Tree 8 12
+Obstacle Tree 9 12
+Obstacle Tree 8 13
+Obstacle Tree 9 13
+Obstacle Tree 2 14
+Obstacle Tree 3 14
+Obstacle Tree 4 14
+Obstacle Tree 5 14
+Obstacle Tree 6 14
+Obstacle Tree 7 14
+Obstacle Tree 8 14
+Obstacle Tree 9 14
+Pickup Gold 100 6 15
+Pickup Gold 100 7 15
+Pickup Gold 100 8 15
+Pickup Gold 100 9 15
+Pickup Gold 100 10 15
+Hero 1 1

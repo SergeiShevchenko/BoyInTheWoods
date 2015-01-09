@@ -1,0 +1,43 @@
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\obj\x86\Debug\Strategy.MapCtor.resources
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.Properties.Resources.resources
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\bin\Debug\MapConstructor.exe
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\bin\Debug\MapConstructor.pdb
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\bin\Debug\StrategyLibrary.dll
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\bin\Debug\StrategyLibrary.pdb
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.exe
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.pdb
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\bin\Debug\MapConstructor.exe
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\bin\Debug\MapConstructor.pdb
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\bin\Debug\StrategyLibrary.dll
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\bin\Debug\StrategyLibrary.pdb
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\obj\x86\Debug\Strategy.MapCtor.resources
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.Properties.Resources.resources
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.exe
+C:\Users\шер\Desktop\Projects\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.pdb
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\bin\Debug\MapConstructor.exe
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\bin\Debug\MapConstructor.pdb
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\bin\Debug\StrategyLibrary.dll
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\bin\Debug\StrategyLibrary.pdb
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\obj\x86\Debug\Strategy.MapCtor.resources
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.Properties.Resources.resources
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.exe
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\bin\Debug\MapConstructor.exe
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\bin\Debug\MapConstructor.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\bin\Debug\StrategyLibrary.dll
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\bin\Debug\StrategyLibrary.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\obj\x86\Debug\Strategy.MapCtor.resources
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.Properties.Resources.resources
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.exe
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\MapConstructor\obj\x86\Debug\MapConstructor.pdb

@@ -1,0 +1,19 @@
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\StrategyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\StrategyLibrary\bin\Debug\StrategyLibrary.dll
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\StrategyLibrary\bin\Debug\StrategyLibrary.pdb
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\StrategyLibrary\obj\Debug\StrategyLibrary.dll
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\StrategyLibrary\obj\Debug\StrategyLibrary.pdb
+C:\Users\шер\Desktop\Projects\Strategy\StrategyLibrary\bin\Debug\StrategyLibrary.dll
+C:\Users\шер\Desktop\Projects\Strategy\StrategyLibrary\bin\Debug\StrategyLibrary.pdb
+C:\Users\шер\Desktop\Projects\Strategy\StrategyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\шер\Desktop\Projects\Strategy\StrategyLibrary\obj\Debug\StrategyLibrary.dll
+C:\Users\шер\Desktop\Projects\Strategy\StrategyLibrary\obj\Debug\StrategyLibrary.pdb
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\StrategyLibrary\bin\Debug\StrategyLibrary.dll
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\StrategyLibrary\bin\Debug\StrategyLibrary.pdb
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\StrategyLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\StrategyLibrary\obj\Debug\StrategyLibrary.dll
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\StrategyLibrary\obj\Debug\StrategyLibrary.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\StrategyLibrary\bin\Debug\StrategyLibrary.dll
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\StrategyLibrary\bin\Debug\StrategyLibrary.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\StrategyLibrary\obj\Debug\StrategyLibrary.dll
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\StrategyLibrary\obj\Debug\StrategyLibrary.pdb

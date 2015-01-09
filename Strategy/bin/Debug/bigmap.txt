@@ -1,0 +1,165 @@
+100 70
+Obstacle Tree2 1 2
+Obstacle Tree2 2 2
+Obstacle Tree2 3 2
+Obstacle Tree2 4 2
+Obstacle Tree 5 2
+Obstacle Tree 6 2
+Pickup Gold 100 1 3
+Pickup Silver 300 2 3
+Ghost 4 5 Cyclop
+Ghost 10 5 Drunk
+Obstacle Tree 3 3
+Obstacle Tree2 4 3
+Obstacle Tree2 5 3
+Obstacle Tree 6 3
+Pickup Sword 1 1 4
+Pickup Potion 100 2 4
+Obstacle Stone 3 4
+Obstacle Tree2 4 4
+Obstacle Tree 5 4
+Obstacle Tree2 6 4
+Pickup Sword 1 1 5
+Pickup Gold 100 2 5
+Obstacle Water 3 5
+Pickup Potion 100 5 5
+Pickup Silver 100 6 5
+Pickup Potion 100 1 6
+Pickup Gold 100 2 6
+Obstacle Tree 3 6
+Obstacle Tree 4 6
+Obstacle Tree 5 6
+Pickup Gold 100 6 6
+Pickup Gold 100 1 7
+Pickup Gold 100 2 7
+Obstacle Bush 3 7
+Obstacle Bush 4 7
+Obstacle Bush 5 7
+Pickup Gold 100 6 7
+Pickup Gold 100 1 8
+Pickup Gold 100 2 8
+Obstacle Tree 3 8
+Obstacle Water 4 8
+Obstacle Stone 5 8
+Pickup Gold 100 6 8
+Pickup Gold 100 1 9
+Pickup Gold 100 2 9
+Pickup Gold 100 3 9
+Obstacle Tree 4 9
+Obstacle Tree 5 9
+Pickup Gold 100 6 9
+Pickup Gold 100 1 10
+Pickup Gold 100 2 10
+Obstacle Tree 3 10
+Obstacle Tree 4 10
+Pickup Gold 100 5 10
+Obstacle Tree 6 10
+Pickup Gold 100 1 11
+Pickup Gold 100 2 11
+Obstacle Tree 3 11
+Pickup Gold 100 3 11
+Pickup Gold 100 4 11
+Obstacle Tree 5 11
+Pickup Gold 100 1 12
+Pickup Gold 100 2 12
+Pickup Gold 100 3 12
+Obstacle Tree 4 12
+Pickup Gold 100 1 13
+Pickup Gold 100 2 13
+Obstacle Tree 3 13
+Pickup Gold 100 4 13
+Obstacle Tree 5 13
+Obstacle Tree 6 13
+Pickup Gold 100 1 14
+Pickup Gold 100 2 14
+Pickup Gold 100 3 14
+Obstacle Tree 4 14
+Obstacle Tree 5 14
+Obstacle Tree 6 14
+Obstacle Tree 4 15
+Obstacle Tree 4 16
+Obstacle Tree 5 16
+Obstacle Tree 4 17
+Obstacle Tree 4 18
+Obstacle Tree 5 18
+Obstacle Tree 4 19
+Obstacle Tree 5 19
+Obstacle Tree 4 20
+Obstacle Tree 5 20
+Obstacle Tree 5 21
+Obstacle Tree 4 22
+Obstacle Tree 4 23
+Obstacle Tree 4 24
+Obstacle Tree 4 25
+Obstacle Tree 5 26
+Obstacle Tree 4 27
+Obstacle Tree 5 27
+Obstacle Tree 4 28
+Obstacle Tree 4 29
+Obstacle Tree 5 29
+Obstacle Tree 5 30
+Obstacle Tree 4 31
+Obstacle Tree 4 32
+Obstacle Tree 5 32
+Obstacle Tree 4 33
+Obstacle Tree 5 33
+Obstacle Tree 5 34
+Obstacle Tree 4 35
+Obstacle Tree 5 36
+Obstacle Tree 4 37
+Obstacle Tree 5 37
+Obstacle Tree 4 38
+Obstacle Tree 4 39
+Obstacle Tree 5 39
+Obstacle Tree 2 40
+Obstacle Tree 3 40
+Obstacle Tree 2 41
+Obstacle Tree 3 41
+Obstacle Tree 4 41
+Obstacle Tree 5 41
+Obstacle Tree 6 41
+Obstacle Tree 3 42
+Obstacle Tree 5 42
+Obstacle Tree 6 42
+Obstacle Tree 3 43
+Obstacle Tree 1 44
+Obstacle Tree 3 44
+Obstacle Tree 6 44
+Obstacle Tree 1 45
+Obstacle Tree 3 45
+Obstacle Tree 4 45
+Obstacle Tree 5 45
+Obstacle Tree 3 46
+Obstacle Tree 5 46
+Obstacle Tree 5 47
+Obstacle Tree 3 48
+Obstacle Tree 4 48
+Obstacle Tree 4 49
+Obstacle Tree 4 50
+Obstacle Tree 5 50
+Obstacle Tree 6 50
+Obstacle Tree 4 51
+Obstacle Tree 5 52
+Obstacle Tree 6 52
+Obstacle Tree 5 53
+Obstacle Tree 4 54
+Obstacle Tree 4 55
+Obstacle Tree 3 56
+Obstacle Tree 4 56
+Obstacle Tree 5 57
+Obstacle Tree 4 58
+Obstacle Tree 4 59
+Obstacle Tree 4 60
+Obstacle Tree 4 61
+Obstacle Tree 3 62
+Obstacle Tree 4 62
+Obstacle Tree 3 63
+Obstacle Tree 3 64
+Obstacle Tree 4 64
+Obstacle Tree 2 65
+Obstacle Tree 3 65
+Obstacle Tree 2 66
+Obstacle Tree 3 66
+Obstacle Tree 2 67
+Obstacle Tree 3 67
+Hero 1 1

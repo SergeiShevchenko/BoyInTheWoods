@@ -1,0 +1,43 @@
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.Form1.resources
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.Properties.Resources.resources
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.pdb
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\bin\Debug\StrategyLibrary.dll
+C:\Users\Lillebror\documents\visual studio 2010\Projects\Strategy\Strategy\bin\Debug\StrategyLibrary.pdb
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.pdb
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\bin\Debug\StrategyLibrary.dll
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\bin\Debug\StrategyLibrary.pdb
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.Form1.resources
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\obj\x86\Debug\Strategy.Properties.Resources.resources
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\шер\Desktop\Projects\Strategy\Strategy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\obj\x86\Debug\Strategy.pdb
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\bin\Debug\StrategyLibrary.dll
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\bin\Debug\StrategyLibrary.pdb
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\obj\x86\Debug\Strategy.Form1.resources
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\obj\x86\Debug\Strategy.Properties.Resources.resources
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Serge\Documents\Visual Studio 2010\Projects\Games\Strategy\Strategy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\obj\x86\Debug\Strategy.exe
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\obj\x86\Debug\Strategy.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\bin\Debug\StrategyLibrary.dll
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\bin\Debug\StrategyLibrary.pdb
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\obj\x86\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\obj\x86\Debug\Strategy.Form1.resources
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\obj\x86\Debug\Strategy.Properties.Resources.resources
+C:\Users\ACER\Desktop\Portfolio\Games\Strategy\Strategy\obj\x86\Debug\Strategy.csproj.GenerateResource.Cache
